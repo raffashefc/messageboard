@@ -13,7 +13,7 @@ Projeto de estudo sobre arquitetura em camadas (MVC), HTTP e persistência com J
 ## Estrutura do projeto
 
 ```
-src/main/java/com/projeto/emprestimos/
+src/main/java/com/projeto/messageboard/
 ├── model/        → entidades (Recado)
 ├── repository/   → acesso ao banco (RecadoRepository)
 ├── service/      → regras de negócio (RecadoService)
