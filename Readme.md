@@ -323,12 +323,7 @@ Ele gera algo como `SELECT count(*) > 0 FROM equipamento WHERE patrimonio = ?`. 
 
 ### 5 - 
 
-![alt text](<Screenshot from 2026-11-12 21-08-43.png>)
-
-![alt text](<Screenshot from 2026-11-12 21-09-34.png>)
-
-![alt text](image.png)
-
-![alt text](<Screenshot from 2026-11-12 21-14-32.png>)
-
-![alt text](image-1.png)
+![Descrição da imagem](./assets/image1.png)
+![Descrição da imagem](./assets/image2.png)
+![Descrição da imagem](./assets/image3.png)
+![Descrição da imagem](./assets/image4.png)
